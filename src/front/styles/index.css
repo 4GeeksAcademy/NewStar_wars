@@ -56,10 +56,12 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.navbar-brand {
-   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+.navbar-img {
+   height: 10%;
+   width: 10%;
 }
 
 .btn {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+

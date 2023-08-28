@@ -8,7 +8,7 @@ export const Navbar = () => {
 		<nav className="navbar navbar-light bg-light">
 			<div className="container">
 				<Link to="/">
-					<span className="navbar-brand mb-0 h1">StarWars Blog</span>
+					<img className="navbar-img"src="https://cdn.freebiesupply.com/logos/large/2x/star-wars-logo-black-and-white.png"/>
 				</Link>
 				<div className="ml-auto">
 				<div class="dropdown">
